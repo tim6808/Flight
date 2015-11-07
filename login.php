@@ -18,6 +18,9 @@
 	//echo '</br>';
 	echo '<a href="' . htmlspecialchars($loginUrl) . '">Log in with Facebook!</a>'; 
 
+	echo '<a href="' . htmlspecialchars($loginUrl) . '">Log in with Facebook!</a>'; 
+
+
 
 ?>
 
